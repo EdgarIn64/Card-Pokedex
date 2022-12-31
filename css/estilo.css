@@ -1,3 +1,7 @@
+.input-group input {
+	font-size: 20px;
+}
+
 #esperar {
 	height: 200px;
 	display: none;
@@ -38,12 +42,13 @@
 }
 
 td.izq {
-	padding-right: 75px;	
+	padding-right: 55px;
 }
 
 table {
 	text-align: left;
 	margin: 0px auto;
+	font-size: 20px;
 }
 
 th {

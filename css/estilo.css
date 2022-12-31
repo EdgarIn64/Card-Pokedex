@@ -1,0 +1,51 @@
+#esperar {
+	height: 200px;
+	display: none;
+}
+
+.title {
+	text-align: center;
+}
+
+#posicion {
+	float: right;
+}
+
+.alert {
+	display: none;
+	margin: 20px 0px;
+}
+
+#apiData {
+	display: none;
+	text-transform: capitalize;
+	border: 3px solid rgb(200,200,250);
+	border-radius: 7px;
+	text-align: center;
+	background: rgb(239, 241, 251);
+}
+
+.hr {
+	background: lightblue;
+	width: 95%;
+	height: 2px;
+	margin: 0px auto;
+}
+
+#apiData img {
+	width: 45%;
+	margin: 0px;
+}
+
+td.izq {
+	padding-right: 75px;	
+}
+
+table {
+	text-align: left;
+	margin: 0px auto;
+}
+
+th {
+	padding-right: 10px;
+}
